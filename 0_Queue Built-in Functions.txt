@@ -1,0 +1,6 @@
+https://docs.google.com/document/d/1tiYAlnJZWbuamFGwLgR4tGm2TEm_FQe0hxF-rXy-9bU/edit?usp=sharing;
+
+
+Stack follows LIFO method;
+
+Queue follows FIFO method;
